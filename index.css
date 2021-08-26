@@ -1,0 +1,54 @@
+body{
+ 	background-color: grey;
+ 	text-align: center;
+ }
+
+ #title {
+ 	color: blue;
+ }
+
+ .subtitle{
+ 	color: blue;
+ 	font-size: 30px;
+ }
+
+ #enter-hero-input{
+ 	/* 60% - 60 % of the the total width of the parent */
+ 	width: 60%;
+ 	height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 30px;
+    margin-right: 20px;
+ }
+
+
+ #submit-button{
+   background-color: blue;
+   color: white;
+   border: 1px solid blue;
+   border-radius: 10px;
+   height: 40px;
+   width: 100px;
+ }
+
+ #power-stat-table{
+   width: 60%;
+   font-size: 30px;
+   margin-left: 20%;
+   margin-right: 20%;
+   border: 2px solid red;
+ text-align: center;
+ }
+
+ th, td{
+   border: 2px solid blue;
+ }
+ .subtitle{
+   color: blue;
+   font size: 30px;
+ }
+ .subtitle{
+    border-radius: 10px;
+    border: 1px solid blue;
+ }
